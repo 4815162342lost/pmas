@@ -1,2 +1,2 @@
 # pmas
-{rocess monitor and save logs to file
+process monitor and save logs to file
